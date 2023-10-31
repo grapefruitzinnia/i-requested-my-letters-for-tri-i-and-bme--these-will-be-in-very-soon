@@ -2,4 +2,4 @@
 
 reminder emails sent just now
 
-1/3 LoR are in 🥳
+2/3 LoR are in 🥳
