@@ -2,4 +2,5 @@
 
 reminder emails sent just now
 
-2/3 LoR are in 🥳
+BME 2/3 LoR are in 🥳
+Tri-I 1/3 LoR are in 🥳
