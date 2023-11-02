@@ -5,4 +5,4 @@ reminder emails sent just now
 BME 2/3 LoR are in 🥳
 Tri-I 2/3 LoR are in 🥳
 
-third one will go in the next week or so
+third one will go in the next week or so, they said it will
