@@ -10,3 +10,12 @@ third one will go in the next week or so, they said it will
 * tri-i: finish by nov 12
 
 * bme: finish by dec 3
+
+# ToDo:
+- [x] ~Letters of Recs~
+- [x] ~Email PIs~
+- [x] ~Fix CV~
+- [ ] SOP -- reduce words
+- [ ] PS -- reduce words
+- [ ] Finish app, click submit
+- [ ] that's it
