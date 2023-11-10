@@ -15,6 +15,7 @@ third one will go in the next week or so, they said it will
 - [x] ~Letters of Recs~
 - [x] ~Email PIs~
 - [x] ~Fix CV~
+- [ ] submit 4th letter via email
 - [ ] SOP -- reduce words
 - [ ] PS -- reduce words
 - [ ] Finish app, click submit
