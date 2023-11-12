@@ -7,7 +7,7 @@ Tri-I 3/3 LoR are in 🥳
 
 third one will go in the next week or so, they said it will
 
-* tri-i: finish by nov 12
+* tri-i: finish by ~nov 12~ a little busy with other things, i'll finish by 11/19/23 latest
 
 * bme: finish by dec 3
 
