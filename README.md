@@ -7,9 +7,9 @@ Tri-I 3/3 LoR are in 🥳
 
 third one will go in the next week or so, they said it will
 
-* tri-i: finish by ~nov 12~ a little busy with other things, i'll finish by 11/19/23 latest -- finished will submit tomorrow morning -- finishing up this morning
+- [x] done! ~tri-i: finish by ~nov 12~ a little busy with other things, i'll finish by 11/19/23 latest -- finished will submit tomorrow morning -- finishing up this morning~
 
-* bme: finish by dec 3
+- [ ] bme: finish by dec 3
 
 # ToDo:
 - [x] ~Letters of Recs~
