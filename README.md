@@ -7,7 +7,7 @@ Tri-I 3/3 LoR are in 🥳
 
 third one will go in the next week or so, they said it will
 
-* tri-i: finish by ~nov 12~ a little busy with other things, i'll finish by 11/19/23 latest
+* tri-i: finish by ~nov 12~ a little busy with other things, i'll finish by 11/19/23 latest -- finished will submit tomorrow morning
 
 * bme: finish by dec 3
 
@@ -16,7 +16,7 @@ third one will go in the next week or so, they said it will
 - [x] ~Email PIs~
 - [x] ~Fix CV~
 - [ ] submit 4th letter via email
-- [ ] SOP -- reduce words
+- [x] SOP -- reduce words
 - [ ] PS -- reduce words
 - [ ] Finish app, click submit
 - [ ] that's it
