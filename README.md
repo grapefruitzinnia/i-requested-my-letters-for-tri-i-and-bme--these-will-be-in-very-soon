@@ -16,7 +16,7 @@ third one will go in the next week or so, they said it will
 - [x] ~Email PIs~
 - [x] ~Fix CV~
 - [ ] submit 4th letter via email
-- [x] SOP -- reduce words
-- [ ] PS -- reduce words
+- [x] SOP -- reduce words -- ok done with this (almost)
+- [ ] PS -- reduce words -- this i have to work on now
 - [ ] Finish app, click submit
 - [ ] that's it
